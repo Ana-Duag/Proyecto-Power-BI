@@ -13,7 +13,8 @@ El proyecto se presenta como una conversación entre un usuario humano y un asis
 
 ## Objetivos
 - Analizar la relación entre crecimiento económico e innovación tecnológica.  
-- Evaluar el grado de preparación y adopción de la IA por país y sector.  
+- Evaluar el grado de preparación y adopción de la IA por país y sector. 
+- Determinar el ranking de países con mayor puntuación global. 
 - Identificar brechas digitales y desigualdades regionales.  
 - Explorar los factores humanos (ética, talento y políticas) que influyen en el desarrollo de la IA.  
 - Plantear una reflexión abierta: **¿Está la IA mejorando la vida humana o solo transformándola?**
