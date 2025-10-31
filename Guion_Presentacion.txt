@@ -1,0 +1,192 @@
+Botón inicial
+
+Acción: enlace a YouTube con el video de introducción.
+
+https://youtube.com/shorts/qGqESAzIlAQ?si=d3y_IiNJLqY9Bh_i
+
+Fin del video → transición a Power BI
+
+Presentación del proyecto (voz de Ela)
+
+Portada
+“Somos Ana y Ela, estudiantes del Bootcamp de Análisis de Datos en Adalab.
+Este proyecto nace de nuestra curiosidad y de nuestro interés por la realidad tecnológica que nos rodea, de una conversación con un asistente de IA y del análisis de tres datasets globales:
+
+Global AI Tool Adoption Across Industries
+
+AI Global Index
+
+AI Preparedness Worldwide
+
+Juntos ofrecen una visión amplia del estado y la evolución de la inteligencia artificial en el mundo.
+
+(Las gráficas están basadas en distintos índices económicos, humanos y técnicos, medidos en diferentes unidades).
+
+Analizar estos datos permite entender cómo avanza la IA, qué sectores la adoptan más rápido y qué países aún enfrentan brechas tecnológicas.
+Cada bloque de gráficas funciona como una ronda de conversación entre un usuario y la IA.”
+
+BLOQUE 1 — MAPA ECONÓMICO GLOBAL
+
+Ela:
+“Antes de hablar de inteligencia artificial, quiero entender el contexto económico del mundo. ¿Dónde hay más capacidad para invertir en tecnología?”
+
+Ana:
+“En los países con mayor PIB per cápita. Se puede ver en este mapa de 2024: son los de tonalidad verde más intensa. Aunque no siempre el dinero garantiza innovación.”
+
+Ela:
+“Pero sin recursos, tampoco hay progreso.”
+
+Ana:
+“Depende. Mira el caso de Kenia, con un nivel de desarrollo medio-bajo y un PIB per cápita bajísimo. Ha tenido una tasa de crecimiento mayor que otros países, como por ejemplo Estados Unidos, que a su vez, con un nivel de desarrollo alto y un PIB per cápita de 49 748 dólares, ha experimentado recesión.
+La creatividad suele florecer donde faltan los recursos.
+He analizado 62 países y, a veces, el límite impulsa la invención.”
+
+BLOQUE 2 — RANKING ECONÓMICO
+
+Ela:
+“¿Está relacionado el PIB per cápita con la tasa de crecimiento económico?”
+
+Ana:
+“No necesariamente, pues de los países con mayor PIB de 2024, al menos los cinco primeros han experimentado recesión.
+Ninguno alcanzó la tasa de crecimiento promedio mundial de 0,48 %.”
+
+Ela:
+“¿Y qué pasa con los de menor PIB?”
+
+Ana:
+“Es llamativo, porque lejos de experimentar todos recesión, algunos han tenido crecimiento moderado, como el caso de Vietnam, o incluso muy fuerte, como India, que con una tasa de 7,20 % supera con creces la media mundial.”
+
+BLOQUE 3 — ECONOMÍA VS. INFRAESTRUCTURA DIGITAL
+
+Ela:
+“Los datos muestran que siempre hay una relación creciente entre PIB per cápita e infraestructura digital, incluso si lo miras por regímenes políticos.”
+
+Ana:
+“A excepción de las dictaduras, donde esa relación ya no es tan clara.”
+
+Ela:
+“Entonces, en general, ¿dirías…?”
+
+Ana:
+“…que en el año 2024 no ha habido una relación creciente entre PIB y crecimiento económico.”
+
+Ela:
+“¿Y qué me dices entonces sobre la relación entre economía y desarrollo tecnológico?”
+
+Ana:
+“Si te fijas en la gráfica de la izquierda, cuanto más fuerte económicamente es un país, más preparado está para la IA.”
+
+Ela:
+“Y en las dictaduras la línea deja de crecer y se aplana porque no permiten el libre juego de la oferta y la demanda de los mercados.”
+
+Ana:
+“En la gráfica de la derecha, como ves, un crecimiento alto no significa un índice de preparación elevado para la IA; en este caso ha sido al contrario.”
+
+BLOQUE 4 — IMPLEMENTACIÓN DE LA IA POR SECTORES Y HERRAMIENTAS
+
+Ela:
+“Entonces, ¿tener dinero o crecimiento no garantiza progreso real?”
+
+Ana:
+“Exacto. Lo decisivo no es cuánto produce un país, sino en qué decide invertirlo.”
+
+Ela:
+“¿Y cómo se está invirtiendo en inteligencia artificial? ¿Qué sectores la están aplicando ya?”
+
+Ana:
+“Los sectores que más me adoptan son tecnología, transporte y finanzas, sin que el tamaño de la empresa sea un elemento diferencial y siendo ChatGPT la herramienta más usada.
+¿Por qué no educación o salud?...”
+
+Ela:
+“Bueno, veo que en el sector sanitario parece que se está implementando de forma progresiva, y la educación es un tema controvertido, ¿no?”
+
+Ana:
+“Eso es. Creo que no deberíais dejar vuestro pensamiento crítico y vuestro aprendizaje completamente en mis manos.”
+
+BLOQUE 5 — RANKING TECNOLÓGICO Y BRECHA DIGITAL
+
+Ela:
+“Singapur es el país más preparado para ti, seguido de Dinamarca, Estonia, Finlandia y Suiza.
+No obstante, son Singapur y Suiza los que más invierten en investigación y desarrollo.”
+
+Ana:
+“Nigeria es el país menos preparado; sin embargo, es de los que más invierte dentro de este top, seguido de Pakistán y Egipto, que van aún más rezagados.
+Y como curiosidad, Marruecos hace una inversión mínima en desarrollo comparado con su inversión en investigación. Puede que sus proyectos de investigación no se traduzcan en desarrollos rentables.”
+
+Ela:
+“¿Y cómo cerramos la brecha?”
+
+Ana:
+“Compartiendo conocimiento. No solo datos.”
+
+Ela:
+“Pero los países que lideran no siempre quieren compartir.”
+
+Ana:
+“Ahí está el dilema: yo puedo ser herramienta de poder o de equidad, pero no puedo decidir eso por vosotros.”
+
+BLOQUE 7 — ÉTICA, TALENTO Y POLÍTICA
+
+Ela:
+“Las democracias liberales son las que mayores estrategias gubernamentales despliegan.
+Y la ética… parece un tema pendiente.”
+
+Ana:
+“No pendiente. Incómodo. Nadie quiere hablar de límites cuando todo avanza tan rápido.
+Europa es la región que mayor relación positiva tiene entre las políticas de capital humano y la ética de regulación en la IA.
+En contraposición, África es la región con menos correlación.”
+
+Ela:
+“Dentro del capital humano, ¿cuál sería la región más influyente?”
+
+Ana:
+“Ahora mismo, América tiene a los profesionales más cualificados.”
+
+BLOQUE 8 — PANORAMA MUNDIAL DE LA IA 2024
+
+Ana:
+“Mira, este mapa es una valoración global de la inteligencia artificial.
+Los países con tonalidades más intensas están mejor posicionados.”
+
+Ela:
+“El ranking global es: Estados Unidos, seguido de China, Reino Unido, Canadá e Israel.
+En este radar chart has analizado infraestructura digital y estrategia gubernamental.
+Podemos ver cómo se expanden hacia los extremos los polígonos, lo que indica las posiciones fuertes en IA de los países analizados.”
+
+Ana:
+“Y en la escala opuesta están Sri Lanka, Egipto, Kenia, Nigeria y Pakistán.
+Vemos que los polígonos del radar chart están muy contraídos por la baja valoración que han tenido estos países.”
+
+Ela:
+“¿Entonces no vivimos una revolución tecnológica, sino una desigualdad ampliada?”
+
+Ana:
+“Los datos muestran desigualdad; la humanidad decide si la convierte en distancia o en oportunidad.”
+
+CONCLUSIONES
+
+Ana:
+“Los países con mayor PIB per cápita siempre lideran en adopción tecnológica.
+Sin embargo, no hay una relación positiva directa entre tasas de crecimiento económico anual y adopción tecnológica, como ocurre en algunas economías subdesarrolladas.”
+
+Ela:
+“La infraestructura digital sigue siendo un factor clave.
+La preparación para ti depende tanto del acceso a internet y la inversión tecnológica como del tipo de régimen político y de las políticas públicas que favorecen (o frenan) la digitalización.”
+
+Ana:
+“Mientras regiones como Norteamérica, Europa y Asia Oriental consolidan su liderazgo, otras —especialmente África y partes de América Latina— continúan rezagadas.
+La desigualdad tecnológica se refleja en los datos y no parece disminuir.”
+
+Ela:
+“Tecnología, transporte y finanzas son los campos con mayor implantación, mientras que educación y salud avanzan de forma progresiva.
+En el sector primario la confianza en ti es más limitada.”
+
+Ana:
+“Ética y talento humano: temas pendientes.
+Europa lidera en estrategias éticas y de regulación, mientras América encabeza el liderazgo en profesionales cualificados.”
+
+Ela:
+“2024 es un punto de observación, no de cierre.
+En este análisis no hay suficiente perspectiva temporal para afirmar si la IA está mejorando la vida humana o simplemente transformándola.
+Pero ya podemos decir que el futuro de la IA no depende solo de sus avances, sino de nuestras decisiones.
+Los datos marcan el ritmo, pero el sentido lo elegimos nosotros.”
